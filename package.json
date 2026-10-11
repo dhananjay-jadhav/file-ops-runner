@@ -1,4 +1,7 @@
 {
   "name": "file-ops-runner",
-  "packageManager": "yarn@4.9.1"
+  "packageManager": "yarn@4.18.1",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
 }
