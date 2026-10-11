@@ -1,6 +1,9 @@
 {
   "name": "file-ops-runner",
   "packageManager": "yarn@4.18.1",
+  "scripts": {
+    "app": "node src/app.ts"
+  },
   "devDependencies": {
     "typescript": "^7.0.2"
   }
